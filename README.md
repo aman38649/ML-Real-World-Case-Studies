@@ -1,2 +1,2 @@
 # ML-Real-World-Case-Studies
-This repository serves as a comprehensive collection of real-world case studies demonstrating the practical applications of machine learning techniques across various domains.
+Welcome to the "Machine Learning Real World Case Studies" repository! This repository contains a collection of real-world case studies that showcase the practical applications of machine learning across various domains. Whether you are a beginner or an experienced practitioner, this repository provides valuable insights and examples to enhance your understanding and application of machine learning techniques.
