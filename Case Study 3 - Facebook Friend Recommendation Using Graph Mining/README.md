@@ -69,8 +69,3 @@ inter_follower and shortest_path.
 5. XGBOOST took most of time.
 6. For XGBOOST, follows_back was the most important feature. Followed by cosine_follower
 and weight_f1.
-
-## Note:
-
-you can get all the weight and excel files used in above case study from here...
-https://drive.google.com/open?id=1AuduB2ttQuSUf-b057x0PnNyXpF07HwL
